@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorenzoaniel
 - 👀 I’m interested in any thing IT related
-- 🌱 I’m currently learning React/React Router/Styled-Components
+- 🌱 I’m currently learning React/React Router/Styled-Components/Framer Motion
 - 📫 How to reach me: https://www.linkedin.com/in/mikhail-lorenzo-aniel-283022127/
 
 <!---
