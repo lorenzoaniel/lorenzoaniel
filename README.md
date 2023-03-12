@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorenzoaniel
 - 👀 I’m interested in any thing IT related
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me: https://www.linkedin.com/in/mikhail-lorenzo-aniel-283022127/
 - Check out my current Portfolio: [www.mikhaillorenzoaniel.com](https://www.mikhaillorenzoaniel.com/)
 <!---
